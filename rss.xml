@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Board Game Gallery]]></title>
+        <description><![CDATA[Board Game Gallery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 19:51:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Art of Board Games]]></title>
+            <description><![CDATA[<article><h1>The Art of Board Games</h1><p>And this is also true of my relentless passion, board games. As I scan Kickstarter ads, the shelves of my local game store, or browse pages of games from online retailers, it's the cover art that has the power to stop me in my tracks. Forget game descriptions for a moment. Forget the genre. Forget the mechanics. I am drawn by what I can see.</p></article>]]></description>
+            <link>undefinedthe-art-of-board-games/index.html</link>
+            <guid isPermaLink="false">0adaa407-b6ba-48fb-bbc3-4fa8ad46d604</guid>
+            <pubDate>Mon, 11 Jan 2016 19:50:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
